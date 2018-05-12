@@ -1,0 +1,30 @@
+_repo: The-Sun-Maid--A-Story-of-Fort-Dearborn_32843
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32843-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Raymond, Evelyn
+    alias: Raymond, Evelyn Hunt
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '31472'
+    url: http://www.gutenberg.org/2009/agents/31472
+description: ''
+gutenberg_issued: '2010-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fort Dearborn (Ill.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Indian captivities -- Illinois -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Chicago (Ill.) -- History -- To 1875 -- Fiction'
+title: 'The Sun Maid: A Story of Fort Dearborn'
+url: http://www.gutenberg.org/ebooks/32843
